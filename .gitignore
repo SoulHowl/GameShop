@@ -1,1 +1,7 @@
-
+bin/
+Migrations/
+obj/
+Properties/
+*.txt
+*.csproj
+*.user

@@ -1,7 +1,0 @@
-bin/
-migrations/
-obj/
-Properties/
-*.txt
-*.csproj
-*.user
